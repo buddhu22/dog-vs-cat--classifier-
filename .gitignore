@@ -1,0 +1,6 @@
+catsvsdogs/
+__pycache__/
+.streamlit/
+.ipynb_checkpoints/
+dogsvscats.zip
+models/best_model.keras
