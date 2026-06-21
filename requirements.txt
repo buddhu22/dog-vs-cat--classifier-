@@ -1,7 +1,7 @@
 tensorflow
 keras
 matplotlib
-opencv-python
+opencv-python-headless
 streamlit
 scikit-learn
 seaborn
