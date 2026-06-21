@@ -1,4 +1,4 @@
-tensorflow
+tensorflow-cpu
 keras
 matplotlib
 opencv-python-headless
